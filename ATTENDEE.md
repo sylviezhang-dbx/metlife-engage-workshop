@@ -20,7 +20,7 @@ Confirm these **before** attendees arrive. Metadata-only commands can succeed wh
 ## 1. Get the notebooks (5 min)
 
 1. In Databricks: **Workspace → Add → Git folder**.
-2. Paste: `https://github.com/sylviezhang1988-cpu/metlife-engage-workshop`
+2. Paste: `https://github.com/sylviezhang-dbx/metlife-engage-workshop`
 3. Clone branch `main`.
 
 If Git folders are blocked, download this repo as a zip, unzip it, and import the `.ipynb` files into one workspace folder. Keep them together so `%run ./00_setup` still works.
